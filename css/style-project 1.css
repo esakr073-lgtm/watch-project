@@ -44,10 +44,10 @@ body{
     
 }
 .searchicon{
-    position: absolute;
+   position: absolute;
    margin-top: 20px;
    font-size: 16px;
-   margin-left: 40px;
+   margin-left: 235px;
 }
 .header-list{
     float: right;
@@ -994,4 +994,5 @@ list-style: none;
     background-color:rgb(250, 80, 0);
     transition: 0.5s;
 }
+
 /* ///////////////////---------------***The-End-Of-The-Project***---------------/////////////////// */
