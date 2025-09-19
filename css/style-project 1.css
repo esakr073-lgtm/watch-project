@@ -41,7 +41,7 @@ body{
     margin-top: 11.5px;
     margin-left: 25px;
     border: 0;
-    
+    padding-left:10px;
 }
 .searchicon{
    position: absolute;
@@ -996,4 +996,5 @@ list-style: none;
 }
 
 /* ///////////////////---------------***The-End-Of-The-Project***---------------/////////////////// */
+
 
